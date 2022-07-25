@@ -1,0 +1,14 @@
+# Add configuration values here, as shown below.
+#
+name: "Abraham HN"
+request_currencyapi: 6
+timeout: 10
+api_key: "QXpOlPdsCC6nX9CX5y7SPU0dtV66zgioqQjFZNe5"
+host: "localhost"
+username: "zorin"
+password: "09120912"
+# pusher_app_id: "2954"
+# pusher_key: 7381a978f7dd7f9a1117
+# production:
+#   stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV9H
+#   stripe_publishable_key: pk_live_9lcthxpSIHbGwmdO941O1XVU
