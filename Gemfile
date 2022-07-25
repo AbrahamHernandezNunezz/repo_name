@@ -15,6 +15,8 @@ gem 'rspec-rails'
 gem 'pg', '~> 1.1'
 # Use as file config
 gem 'figaro', '1.2.0'
+# Use for request's
+gem 'httparty', '0.20.0'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.7'
 # Use Redis adapter to run Action Cable in production
