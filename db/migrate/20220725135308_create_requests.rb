@@ -4,7 +4,6 @@ class CreateRequests < ActiveRecord::Migration[6.1]
       t.string :response_time
       t.string :duration
       t.string :message
-      t.string :string
 
       t.timestamps
     end

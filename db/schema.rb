@@ -27,7 +27,6 @@ ActiveRecord::Schema.define(version: 2022_07_25_135308) do
     t.string "response_time"
     t.string "duration"
     t.string "message"
-    t.string "string"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
